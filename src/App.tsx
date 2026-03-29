@@ -28,7 +28,7 @@ export default function App() {
               하노이의 탑 상태 공간 트리 시각화
             </h1>
             <p className="text-slate-500 text-sm mt-1">
-              탐색 알고리즘 비교 및 시각화 도구
+              탐색 알고리즘 비교 및 시각화 도구 by 11532 최민성
             </p>
           </div>
           <div className="flex items-center gap-3 bg-slate-100 p-1 rounded-xl">
