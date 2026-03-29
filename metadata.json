@@ -1,0 +1,5 @@
+{
+  "name": "하노이의 탑 상태 공간 트리 시각화",
+  "description": "4개의 원반과 3개의 기둥을 사용하는 하노이의 탑 문제를 BFS, DFS, Best-First, A* 알고리즘으로 해결하고 상태 공간 트리를 시각화합니다.",
+  "requestFramePermissions": []
+}
